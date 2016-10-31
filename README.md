@@ -1,5 +1,5 @@
 # fantasy-stats
-
+# Python 2.7
 When making a new emailer 
 specifiy the service with either gmail, yahoo, outlook or hotmail
 EX
