@@ -1,11 +1,5 @@
 import smtplib 
-# import urllib.request
 from datetime import datetime
-# import bs4
-# import pandas as pd
-# from pandas import DataFrame
-
-
 
 # gmail
 # yahoo
